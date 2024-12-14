@@ -1,0 +1,49 @@
+
+build/
+*/build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# bin
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+
+# Logs and dumps
+*.log
+*.trace
+*.core
+*.stackdump
+
+# debug
+*.gch
+*.debug
+
+# editor/IDE
+*.swp
+*~
+*.bak
+*.tmp
+*.user
+*.ncb
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.idea/
+.vscode/
+
+# SO files
+.DS_Store
+Thumbs.db
