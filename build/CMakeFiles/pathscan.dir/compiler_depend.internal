@@ -3,6 +3,7 @@
 
 CMakeFiles/pathscan.dir/src/main.c.o
  /home/rodrigo/misc/ctf-lab/pathscan/src/main.c
+ /home/rodrigo/misc/ctf-lab/pathscan/include/cliService.h
  /usr/include/features-time64.h
  /usr/include/features.h
  /usr/include/stdc-predef.h
