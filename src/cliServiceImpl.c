@@ -2,8 +2,8 @@
 
 #include "../include/cliService.h"
 
-void processArgs(char *args[]) {
-  printf("Argument received: %s", args[1]);
+void processArgs(int argc, char *argv[]) {
+  printf("Argument received: %s");
 }
 
 void showEndpoints(char *endpoints[], int endpointsSize) {

@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/pathscan.dir/src/main.c.o -o pathscan 
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/pathscan.dir/link.d CMakeFiles/pathscan.dir/src/main.c.o CMakeFiles/pathscan.dir/src/cliServiceImpl.c.o CMakeFiles/pathscan.dir/src/requestServiceImpl.c.o -o pathscan

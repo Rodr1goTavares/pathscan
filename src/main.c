@@ -2,7 +2,7 @@
 
 #include "../include/cliService.h"
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[]) {
   printf("Running... (new version)");
   proccessArgs(argv, argc);
   return 0;
